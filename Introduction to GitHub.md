@@ -18,7 +18,7 @@
     - [How to Clone a git repository](#how-to-clone-a-git-repository)
       - [Prerequisites](#prerequisites-1)
       - [Cloning the repository](#cloning-the-repository)
-  - [Committing a repository](#committing-a-repository)
+  - [Committing to a repository](#committing-to-a-repository)
   - [Pull requests](#pull-requests)
     - [Opening a pull request](#opening-a-pull-request)
   - [Conclusion](#conclusion)
@@ -143,7 +143,7 @@ Write the commands below to clone the repository.
 
 ```
 
-## Committing a repository
+## Committing to a repository
 
 According to Wikipedia, a **commit** is an operation which sends the latest changes of the source code to the repository, making these changes part of the head revision of the repository, in version control systems.
 
