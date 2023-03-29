@@ -25,32 +25,32 @@
 
 ## Introduction
 
-GitHub and version control is one of the most salient topics to learn as a developer or software engineer. The scope of which this knowledge is applied is vast and is not constrained to software development only. GitHub can be used for tasks such collaboration with teams, developing complex algorithms, hosting websites among others. GitHub is a tool that can be powerful if it's capabilities are leveraged by the user to produce marvelous results.
+GitHub and version control are two of the most salient topics to learn as a developer or software engineer. The scope to which this knowledge is applied is vast and is not constrained to software development only. GitHub can be used for tasks such as collaboration with teams, developing complex algorithms, and hosting websites, among others. GitHub is a tool that can be powerful if its capabilities are leveraged by the user to produce marvelous results.
 
 ## What is GitHub
 
-GitHub is a cloud-based platform that hosts git projects on a remote server. GitHub is used by individuals and teams for version control and collaboration using Git. The GitHub's Graphical User Interface (GUI) is very user-friendly and it allows even novice programmers to leverage the power of Git which could otherwise be very problematic.
+**GitHub** is a cloud-based platform that hosts git projects on a remote server. GitHub is used by individuals and teams for version control and collaboration using Git. GitHub's Graphical User Interface (GUI) is very user-friendly, and it allows even novice programmers to leverage the power of Git, which could otherwise be very problematic.
 
-GitHub is free for all and anyone can signup and begin hosting their projects without limits. This feature makes GitHub especially popular for open-source projects.
+GitHub is free for all, and anyone can sign up and begin hosting their projects without limits. This feature makes GitHub especially popular for open-source projects.
 
 ## Why GitHub
 
-GitHub has a myriad of benefits when used by a developer or any GitHub user at any level. Owing to the fact that it hosts git projects on a remote-server, it means that you will have a back up to your project. In case of damage to the local storage, you can still access and retrieve your project files readily in a matter of minutes if not seconds.
+GitHub has a myriad of benefits when used by a developer or any GitHub user at any level. You will have a backup of your project because it hosts git projects on a remote server. You can still easily access and retrieve your project files in a matter of minutes, if not seconds, even if there is damage to the local storage.
 
-Moreover, it is easy to keep track of collaborative and personal projects. Making changes to your project and pushing them to GitHub makes the work of tracking the progress easier. This is also true for collaborative works that involve more than one person. Every person can make their contributions to the project remotely up-to the deployment stage smoothly without conflicting by creating new branches.
+Additionally, it is simple to keep track of both individual and group projects. The process of tracking the progress is made simpler by making changes to your project and pushing them to GitHub. Additionally, this is valid for multi-person collaborative projects. By creating new branches, everyone can work on the project remotely and contribute up until the deployment stage without running into any problems.
 
-GitHub offers one of the best documentations that help beginners to maneuver through its technical areas with ease. The documentations make it easy to solve any problem encountered on the way without requiring a third party to take you through. In addition, GitHub offers a markdown that is used in writing of instructions and explanations about a project (README.md). Markdown is also used by book authors to write their books, and technical writers to write their technical articles.
+GitHub provides some of the best documentation that makes it simple for new users to understand its technical aspects. The documentations make it easy to solve any problem encountered on the way without requiring a third party to take you through. In addition, GitHub offers a markdown that is used in the writing of instructions and explanations about a project (README.md). Markdown is also used by book authors to write their books, and technical writers to write their technical articles.
 
 ## Git vs. GitHub
 
-**Git** is an open-source tool that is downloaded on to the computer and is used for version-control. It is used to manage a development's source code history.
+**Git** is an open-source version control tool that can be downloaded and installed on a computer. It is used to keep track of a development's source code history.
 
-**GitHub** is a cloud-based code hosting platform that allows users to save their Git repositories on a remote server. Essentially, it stores code that is pushed to it from computers running the Git tool.
+**GitHub** is a cloud-based code hosting platform that allows users to save their Git repositories on a remote server. It essentially stores code that is pushed to it from computers running the Git tool.
 You can learn more about [Git and GitHub here](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
 
 ## GitHub Desktop vs. GitHub CLI
 
-**GitHub Desktop** is an application that enables you to communicate with GitHub using a Graphical User Interface (GUI), instead of utilizing the command line or a web browser. The majority of Git operations may be executed from your desktop with visual confirmation using GitHub Desktop. You can read more about how to install and use [GitHub desktop here](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
+**GitHub Desktop** is an application that enables you to communicate with GitHub using a Graphical User Interface (GUI), instead of utilizing the command line or a web browser. GitHub Desktop allows you to perform the majority of Git operations from your desktop with visual confirmation. You can read more about how to install and use [GitHub desktop here](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 
 **GitHub CLI** on the other side is an open-source tool that allows you to interact with the GitHub from the computer's Command Line Interface(CLI). The CLI makes use of the git commands to perform certain tasks. You can find out more about the GitHub CLI and how to install it [here](https://docs.github.com/en/github-cli/github-cli/about-github-cli).
 Some of the commands that are used in the GitHub CLI can be found at the [GitHub documentation](https://docs.github.com/en/get-started/using-git/about-git#about-version-control-and-git).
