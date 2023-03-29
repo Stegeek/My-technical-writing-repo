@@ -1,3 +1,5 @@
+![Cover photo](GitHub.jpeg)
+
 # Introduction to GitHub
 
 ## Table of contents
