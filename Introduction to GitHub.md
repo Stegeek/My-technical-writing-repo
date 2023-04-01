@@ -243,4 +243,4 @@ Congratulations!🎉 You have created a new pull request ready for review and me
 
 ## Conclusion
 
-By using Git and GitHub, your production is boosted and you can focus the time you spent thinking about your project history to other projects. GitHub, and specifically, pull requests are the heart of collaboration. You can contribute to projects from anywhere around the globe and be sure of no data loss. This article will help you get started with version control using Git.
+By using Git and GitHub, your production is boosted and you can focus the time you spent thinking about your project history to other projects. GitHub, and specifically, pull requests are the heart of collaboration. You can contribute to projects from anywhere around the globe and be sure of no data loss.
