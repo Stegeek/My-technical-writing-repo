@@ -1,2 +1,2 @@
-# Introduction-to-technical-writing
-This is a repository that shows my work as I learn technical writing
+# My-technical-writing-repository
+This is a repository that shows my work as I learn and advance in technical writing
